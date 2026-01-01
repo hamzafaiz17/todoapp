@@ -25,7 +25,7 @@ export default function TodoAppForm({ todo, settodo, handleAddTodo }) {
             }}
             disabled={!newtodo.trim()}
           >
-            Add
+            Add Todo
           </button>
         </div>
       </form>
