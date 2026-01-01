@@ -12,7 +12,7 @@ export default function Header() {
         </div>
         <el-popover-group className="hidden lg:flex lg:gap-x-12">
           <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Dashboard
+            APP Dashboard
           </a>
         </el-popover-group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
